@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**Shikazu777/Shikazu777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dhanraj, a Full Stack Developer (MERN) and aspiring AI Engineer.
 
-Here are some ideas to get you started:
+I build scalable web applications and backend systems with MongoDB, Express.js, React, and Node.js.  
+I'm currently expanding into Data Analytics and Artificial Intelligence, preparing for a Master's and long-term tech career in Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in large-scale, high-impact systems, structured architecture, and intelligent products powered by data.
+
+Previously, I participated in the IND–MYS International Immersion Programme, working on digital transformation case studies in international teams.
+
+Outside of development, I study AI systems, improve backend design skills, and build production-focused applications.
+
+Let's connect!
+
+LinkedIn | Portfolio | Email
